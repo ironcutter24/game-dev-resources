@@ -20,13 +20,13 @@
 
 #### Free Programming Books ([root](https://github.com/EbookFoundation/free-programming-books))<br>
 - [Game Development](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#game-development)<br>
-- [Graphics Programming](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#graphics-programming)
-
-#### Tools
-[Tools of Celeste](https://celestegame.tumblr.com/tools)<br><br>
+- [Graphics Programming](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#graphics-programming)<br><br>
 
 # Game Art
-[Pixel Art Tutorials by Pedro Medeiros](https://lospec.com/pixel-art-tutorials/author/pedro-medeiros)<br>
+[Pixel Art Tutorials by Pedro Medeiros](https://lospec.com/pixel-art-tutorials/author/pedro-medeiros)<br><br>
+
+## Mixed Tools
+[Tools of Celeste](https://celestegame.tumblr.com/tools)<br><br>
 
 <!-- []()<br> -->
 <!-- [Contribution guidelines for this project](docs/CONTRIBUTING.md) -->
