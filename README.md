@@ -21,6 +21,10 @@
 - [[Unity] Procedural Cave Generation](https://www.youtube.com/watch?v=v7yyZZjF1z4&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl&index=20) (YouTube Playlist)<br>
 - [[Unity] Procedural Terrain Generation](https://www.youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3) (YouTube Playlist)<br>
 
+#### YouTube Channels
+- [Sebastian Lague](https://www.youtube.com/@SebastianLague)<br>
+- [Iñigo Quilez](https://www.youtube.com/@InigoQuilez)<br>
+
 #### Free Programming Books ([root](https://github.com/EbookFoundation/free-programming-books))<br>
 - [Game Development](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#game-development)<br>
 - [Graphics Programming](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#graphics-programming)<br><br>
