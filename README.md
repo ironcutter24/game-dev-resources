@@ -1,6 +1,7 @@
 # Game Design
 [How to Prototype a Game in Under 7 Days](https://www.gamedeveloper.com/disciplines/how-to-prototype-a-game-in-under-7-days)<br>
 [Celeste & Forgiveness](https://maddythorson.medium.com/celeste-forgiveness-31e4a40399f1)<br>
+[About Brainstorming](https://www.atlassian.com/work-management/project-collaboration/brainstorming)<br>
 
 #### Tools
 - [Interface In Game](https://interfaceingame.com/)<br>
@@ -30,6 +31,7 @@
 - [Graphics Programming](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#graphics-programming)<br><br>
 
 # Game Art
+[Pixel Art: Where to Start](https://lospec.com/articles/pixel-art-where-to-start/)<br>
 [Pixel Art Tutorials by Pedro Medeiros](https://lospec.com/pixel-art-tutorials/author/pedro-medeiros)<br><br>
 
 ## Mixed Tools
