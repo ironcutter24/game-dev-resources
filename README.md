@@ -3,12 +3,12 @@
 [Celeste & Forgiveness](https://maddythorson.medium.com/celeste-forgiveness-31e4a40399f1)<br>
 [About Brainstorming](https://www.atlassian.com/work-management/project-collaboration/brainstorming)<br>
 
-#### Tools
-- [Interface In Game](https://interfaceingame.com/)<br>
-
 #### YouTube Channels
 - [Noclip Documentaries](https://www.youtube.com/@NoclipDocs)<br>
-- [Game Maker's Toolkit](https://www.youtube.com/@GMTK)<br><br>
+- [Game Maker's Toolkit](https://www.youtube.com/@GMTK)<br>
+
+#### Tools
+- [Interface In Game](https://interfaceingame.com/)<br><br>
 
 # Game Development
 [CS50's Introduction to Game Development 2018](https://www.youtube.com/playlist?list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh) (YouTube Playlist)<br>
