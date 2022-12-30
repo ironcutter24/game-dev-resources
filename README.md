@@ -4,8 +4,8 @@
 [About Brainstorming](https://www.atlassian.com/work-management/project-collaboration/brainstorming)<br>
 
 #### YouTube Channels
-- [Noclip Documentaries](https://www.youtube.com/@NoclipDocs)<br>
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK)<br>
+- [Noclip Documentaries](https://www.youtube.com/@NoclipDocs)<br>
 
 #### Tools
 - [Interface In Game](https://interfaceingame.com/)<br><br>
@@ -24,8 +24,8 @@
 - [[Unity] Procedural Terrain Generation](https://www.youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3) (YouTube Playlist)<br>
 
 #### YouTube Channels
-- [Sebastian Lague](https://www.youtube.com/@SebastianLague)<br>
 - [Iñigo Quilez](https://www.youtube.com/@InigoQuilez)<br>
+- [Sebastian Lague](https://www.youtube.com/@SebastianLague)<br>
 
 #### Free Programming Books ([root](https://github.com/EbookFoundation/free-programming-books))<br>
 - [Game Development](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#game-development)<br>
