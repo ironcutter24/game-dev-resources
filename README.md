@@ -2,6 +2,7 @@
 [How to Prototype a Game in Under 7 Days](https://www.gamedeveloper.com/disciplines/how-to-prototype-a-game-in-under-7-days)<br>
 [Celeste & Forgiveness](https://maddythorson.medium.com/celeste-forgiveness-31e4a40399f1)<br>
 [About Brainstorming](https://www.atlassian.com/work-management/project-collaboration/brainstorming)<br>
+[Puzzle Level Idea Strategies](https://cwpat.me/misc/puzzle-level-idea-strategies/)<br>
 
 #### YouTube Channels
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK)<br>
