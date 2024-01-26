@@ -3,6 +3,7 @@
 [Celeste & Forgiveness](https://maddythorson.medium.com/celeste-forgiveness-31e4a40399f1)<br>
 [About Brainstorming](https://www.atlassian.com/work-management/project-collaboration/brainstorming)<br>
 [Puzzle Level Idea Strategies](https://cwpat.me/misc/puzzle-level-idea-strategies/)<br>
+[UI Design](https://medium.com/@a_kill_/video-game-ui-the-design-process-explained-14c23fa70d37)<br>
 
 #### YouTube Channels
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK)<br>
