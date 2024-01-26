@@ -9,7 +9,8 @@
 - [Noclip Documentaries](https://www.youtube.com/@NoclipDocs)<br>
 
 #### Tools
-- [Interface In Game](https://interfaceingame.com/)<br><br>
+- [Interface In Game](https://interfaceingame.com/)<br>
+- [Mixamo](https://www.mixamo.com)<br><br>
 
 # Game Development
 [CS50's Introduction to Game Development 2018](https://www.youtube.com/playlist?list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh) (YouTube Playlist)<br>
